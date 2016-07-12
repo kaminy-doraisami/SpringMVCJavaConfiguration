@@ -1,0 +1,1 @@
+This is a simple example of a Spring MVC project using Java Configuration (no XML configuration files). 

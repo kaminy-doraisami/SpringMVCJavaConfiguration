@@ -1,0 +1,134 @@
+Jul 05, 2016 7:19:14 PM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:SpringMVCJavaConfiguration' did not find a matching property.
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/8.0.36
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jun 9 2016 13:55:50 UTC
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         8.0.36.0
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_77\jre
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_77-b03
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\mahesh.rajannan\workspace\screenshots\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-8.0.36
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\mahesh.rajannan\workspace\screenshots\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-8.0.36
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dwtp.deploy=C:\Users\mahesh.rajannan\workspace\screenshots\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-8.0.36\endorsed
+Jul 05, 2016 7:19:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=Cp1252
+Jul 05, 2016 7:19:14 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_77/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_77/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_77/bin/../jre/lib/amd64;C:\Program Files (x86)\HP SimplePass\x64;C:\Program Files (x86)\HP SimplePass\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\12.0\DLLShared\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_77\bin;C:\apache-maven-3.3.9\bin;C:\Program Files (x86)\Skype\Phone\;C:\apache-maven-3.3.9\bin;C:\groovy-2.4.6\bin;C:\gradle-2.13\bin;C:\spring\spring-1.3.3.RELEASE\bin;C:\sonar-scanner-2.6.1\bin;C:\HashiCorp\Vagrant\bin;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\eclipse-jee-mars-2-win32-x86_64\eclipse;;.
+Jul 05, 2016 7:19:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+Jul 05, 2016 7:19:15 PM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Jul 05, 2016 7:19:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-8009"]
+Jul 05, 2016 7:19:15 PM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Jul 05, 2016 7:19:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2145 ms
+Jul 05, 2016 7:19:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jul 05, 2016 7:19:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/8.0.36
+Jul 05, 2016 7:19:17 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [389] milliseconds.
+Jul 05, 2016 7:19:21 PM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jul 05, 2016 7:19:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: 1 Spring WebApplicationInitializers detected on classpath
+Jul 05, 2016 7:19:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Jul 05, 2016 7:19:21 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Jul 05, 2016 7:19:22 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext prepareRefresh
+INFO: Refreshing My Web API app context: startup date [Tue Jul 05 19:19:22 CDT 2016]; root of context hierarchy
+Jul 05, 2016 7:19:22 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext loadBeanDefinitions
+INFO: Registering annotated classes: [class com.learnSpring.configurer.RootConfig]
+Jul 05, 2016 7:19:24 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 2725 ms
+Jul 05, 2016 7:19:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'my-dispatcher'
+Jul 05, 2016 7:19:24 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'my-dispatcher': initialization started
+Jul 05, 2016 7:19:24 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'my-dispatcher-servlet': startup date [Tue Jul 05 19:19:24 CDT 2016]; parent: My Web API app context
+Jul 05, 2016 7:19:24 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext loadBeanDefinitions
+INFO: Registering annotated classes: [class com.learnSpring.configurer.DispatcherConfig]
+Jul 05, 2016 7:19:26 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.learnSpring.controller.RegistrationController.register()
+Jul 05, 2016 7:19:26 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/success.html],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.learnSpring.controller.RegistrationController.success(com.learnSpring.model.Person)
+Jul 05, 2016 7:19:26 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'my-dispatcher-servlet': startup date [Tue Jul 05 19:19:24 CDT 2016]; parent: My Web API app context
+Jul 05, 2016 7:19:26 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+Jul 05, 2016 7:19:27 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'my-dispatcher': initialization completed in 2394 ms
+Jul 05, 2016 7:19:27 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+Jul 05, 2016 7:19:27 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-8009"]
+Jul 05, 2016 7:19:27 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 11318 ms
+Jul 05, 2016 7:19:37 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/SpringMVCJavaConfiguration] has started
+Jul 05, 2016 7:19:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'my-dispatcher'
+Jul 05, 2016 7:19:37 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'my-dispatcher-servlet': startup date [Tue Jul 05 19:19:24 CDT 2016]; parent: My Web API app context
+Jul 05, 2016 7:19:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Jul 05, 2016 7:19:37 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext doClose
+INFO: Closing My Web API app context: startup date [Tue Jul 05 19:19:22 CDT 2016]; root of context hierarchy
+Jul 05, 2016 7:19:40 PM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jul 05, 2016 7:19:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: 1 Spring WebApplicationInitializers detected on classpath
+Jul 05, 2016 7:19:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Jul 05, 2016 7:19:40 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Jul 05, 2016 7:19:41 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext prepareRefresh
+INFO: Refreshing My Web API app context: startup date [Tue Jul 05 19:19:41 CDT 2016]; root of context hierarchy
+Jul 05, 2016 7:19:41 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext loadBeanDefinitions
+INFO: Registering annotated classes: [class com.learnSpring.configurer.RootConfig]
+Jul 05, 2016 7:19:43 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 2497 ms
+Jul 05, 2016 7:19:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'my-dispatcher'
+Jul 05, 2016 7:19:43 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'my-dispatcher': initialization started
+Jul 05, 2016 7:19:43 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'my-dispatcher-servlet': startup date [Tue Jul 05 19:19:43 CDT 2016]; parent: My Web API app context
+Jul 05, 2016 7:19:43 PM org.springframework.web.context.support.AnnotationConfigWebApplicationContext loadBeanDefinitions
+INFO: Registering annotated classes: [class com.learnSpring.configurer.DispatcherConfig]
+Jul 05, 2016 7:19:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.learnSpring.controller.RegistrationController.register()
+Jul 05, 2016 7:19:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/success.html],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.learnSpring.controller.RegistrationController.success(com.learnSpring.model.Person)
+Jul 05, 2016 7:19:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'my-dispatcher-servlet': startup date [Tue Jul 05 19:19:43 CDT 2016]; parent: My Web API app context
+Jul 05, 2016 7:19:45 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+Jul 05, 2016 7:19:45 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'my-dispatcher': initialization completed in 2116 ms
+Jul 05, 2016 7:19:45 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/SpringMVCJavaConfiguration] is completed

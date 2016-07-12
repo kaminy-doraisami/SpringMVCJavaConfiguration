@@ -1,0 +1,4 @@
+com\learnSpring\model\Person.class
+com\learnSpring\controller\RegistrationController.class
+com\learnSpring\initializer\MyWebAppInitializer.class
+com\learnSpring\configurer\DispatcherConfig.class
